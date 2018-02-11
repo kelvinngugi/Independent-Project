@@ -36,4 +36,14 @@ html, body{
     margin: 5px 0;
     float: left;
     display: inline-block;
+    color: white;
+    line-height: 90;
+}
+a.active{
+    background-color: white;
+    color: black;
+}
+. nav a:hover{
+    background-color: white;
+    color: black
 }
